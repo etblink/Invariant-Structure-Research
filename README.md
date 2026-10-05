@@ -1,6 +1,6 @@
 # Invariant Structure Research
 
-**Status:** preservation-first exploratory research space
+**Status:** PARKED — preservation-first exploratory research space
 
 Invariant Structure Research studies recurring mathematical and structural invariants across apparently distinct domains and projects.
 
@@ -95,6 +95,8 @@ It does not yet establish:
 - or that a new autonomous long-running research program is warranted.
 
 The immediate purpose is to preserve the emerging cross-project structural hypothesis outside any single conversation and then subject it to disciplined comparison.
+
+**Current program boundary:** substantive ISR development is parked during an independent TFP methodology-development interval to reduce cross-domain contamination. See [ISR_PARKING_BOUNDARY_0_1_0.md](ISR_PARKING_BOUNDARY_0_1_0.md).
 
 See:
 
