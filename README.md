@@ -27,6 +27,8 @@ The initial research space includes, but is not limited to:
 - Project Continuity Research (PCR)
 - HiVenues
 - Evidence-Based Market Methods (EBMM)
+- Frames of Reality (FoR) — pre-inception
+- Theological Foundations Program (TFP) — pre-inception
 
 These projects are not presumed to be mutually validating.
 
@@ -87,7 +89,7 @@ It does not yet establish:
 
 - a new unified theory;
 - that NFC is an underlying theory of the other projects;
-- that PGH, FCP, PCR, Observatory, HiVenues, or EBMM share one mechanism;
+- that PGH, FCP, PCR, Observatory, HiVenues, EBMM, Frames of Reality, or TFP share one mechanism;
 - that recurring mathematics implies recurring physics;
 - that interdisciplinary resemblance is causal;
 - or that a new autonomous long-running research program is warranted.
@@ -96,8 +98,8 @@ The immediate purpose is to preserve the emerging cross-project structural hypot
 
 See:
 
-- [RESEARCH_SEED_0_1_1.md](RESEARCH_SEED_0_1_1.md) — current seed
-- [STRUCTURAL_CROSSWALK_0_1_1.md](STRUCTURAL_CROSSWALK_0_1_1.md) — current crosswalk
-- [OPEN_QUESTIONS_0_1_1.md](OPEN_QUESTIONS_0_1_1.md) — current question set
+- [RESEARCH_SEED_0_1_2.md](RESEARCH_SEED_0_1_2.md) — current seed
+- [STRUCTURAL_CROSSWALK_0_1_2.md](STRUCTURAL_CROSSWALK_0_1_2.md) — current crosswalk
+- [OPEN_QUESTIONS_0_1_2.md](OPEN_QUESTIONS_0_1_2.md) — current question set
 
 Previous frozen seed revisions remain preserved in Git and as versioned files.
